@@ -27,7 +27,12 @@ _(Coming soon)_
 _(Coming soon)_
 
 ## Release History
-_(Nothing yet)_
+
+0.1.0 - First release
+
+## Todo
+
+1. Write QUnit tests that passes.
 
 ## License
 Copyright (c) 2012 swallentin  
