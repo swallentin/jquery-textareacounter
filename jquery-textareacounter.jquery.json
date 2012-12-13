@@ -1,0 +1,33 @@
+{
+  "name": "jquery-textareacounter",
+  "title": "jQuery Textareacounter",
+  "description": "jQuery plugin that will countdown how many characters that are left to input. Uses TextArea elements max-length attribute or options parameter.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/stephanwallentin/jquery-textareacounter",
+  "author": {
+    "name": "swallentin",
+    "email": "stephan.wallentin@gmail.com",
+    "url": "http://swallentin.tumblr.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephanwallentin/jquery-textareacounter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stephanwallentin/jquery-textareacounter/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/stephanwallentin/jquery-textareacounter/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL",
+      "url": "https://github.com/stephanwallentin/jquery-textareacounter/blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
