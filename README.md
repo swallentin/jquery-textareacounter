@@ -15,7 +15,7 @@ In your web page:
 <script src="dist/jquery-textareacounter.min.js"></script>
 <script>
 jQuery(function($) {
-  $.awesome(); // "awesome"
+  $('.myTextAreas').textareacounter(); // "textareacounter awesumznezz"
 });
 </script>
 ```
