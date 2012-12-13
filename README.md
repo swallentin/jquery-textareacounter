@@ -2,6 +2,8 @@
 
 jQuery plugin that will countdown how many characters that are left to input. Uses TextArea elements max-length attribute or options parameter.
 
+See live example @ http://swallentin.github.com/jquery-textareacounter/examples/index.html
+
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
