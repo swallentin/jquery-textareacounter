@@ -5,8 +5,8 @@ jQuery plugin that will countdown how many characters that are left to input. Us
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/stephanwallentin/jquery-textareacounter/master/dist/jquery-textareacounter.min.js
-[max]: https://raw.github.com/stephanwallentin/jquery-textareacounter/master/dist/jquery-textareacounter.js
+[min]: https://raw.github.com/swallentin/jquery-textareacounter/master/dist/jquery-textareacounter.min.js
+[max]: https://raw.github.com/swallentin/jquery-textareacounter/master/dist/jquery-textareacounter.js
 
 In your web page:
 
